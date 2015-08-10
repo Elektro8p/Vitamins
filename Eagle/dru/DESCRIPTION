@@ -1,0 +1,5 @@
+<language en>
+<b>Design Rules</b>
+<p>
+All the parameters relevant to the board and its manufacture are specified in the Design Rules. The layout can be checked any time with the aid of the <b>Design Rule Check</b> (<b>DRC</b> command). These rules are also valid for the Autorouter.
+</language>
